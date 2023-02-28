@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
             body: Center(
               child: Text
-                ('Helloworld',
+                ('Hello',
                 style: TextStyle(
                   fontSize: 40
                 ),
